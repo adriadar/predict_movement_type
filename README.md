@@ -1,6 +1,6 @@
 # practice2
 
-data - собранные данные
+data_example - пример собранных данных
 
 task1_pandas - задания по pandas с первого семинара
 
